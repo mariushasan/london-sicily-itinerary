@@ -1,58 +1,59 @@
-# Day 2 - Nebrodi & Randazzo
-*Route: Palermo → San Marco d'Alunzio → Parco dei Nebrodi → Randazzo → Catania*
+# Day 2 - Cefalù
+*Area: Old Town & La Rocca*
 
-> **Driving day:** ~4h 15min total driving, ~240 km. Leave early from Palermo to make the most of it.
-> **Check before you go:** Mountain roads in the Nebrodi are narrow and winding - take it slow. Mobile signal is spotty in the park interior. Bring water and snacks for the Lago Biviere stop.
+> **Getting there:** ~1 hour by train or car from Palermo. Take an early Trenitalia regional from Palermo Centrale.
+> **Check before you go:** Rocca closes at 7PM (last entry ~5PM). Duomo has a midday break 12:30-3:30PM. Wear proper shoes for the Rocca (flip-flops not allowed).
 
 ---
 
-### 1. [San Marco d'Alunzio](https://www.google.com/maps/place/?q=place_id:ChIJt46XwHaVFhMRZCW9Rq9FGCQ)
-- **Time:** Morning (aim to arrive ~9AM)
-- **Drive:** ~55 min from Palermo via A20 autostrada, exit at Torrenova
-- **What:** Tiny Norman-era village perched at 540m with 22 ancient churches for a town of 2,000 people. A Greek temple converted into a church (Tempio di Ercole), Norman castle ruins at the summit, and panoramic views stretching from the Aeolian Islands to Cefalù
-- **Tip:** Park at the edge of the historic centre - the village is tiny and walkable. Allow ~1 hour
+### 1. [Rocca di Cefalù](https://www.google.com/maps/place/?q=place_id:ChIJwxWBWcI7FxMRqqLBojLQNgI)
+- **Time:** 8AM (opens early - go first to beat the heat)
+- **What:** 30-45 min hike up for jaw-dropping panoramic views over the town, coast and sea. Temple of Diana ruins halfway up, castle ruins at the summit
+- **Cost:** 5 EUR
+- **Tip:** Bring water - no facilities after the entrance
 
-### 2. [Chiesa Maria SS. di Aracoeli](https://www.google.com/maps/place/?q=place_id:ChIJF8EBT3GVFhMR3XexVfy0QHg)
-- **Time:** While in San Marco
-- **What:** The town's main church - worth ducking into alongside the Tempio di Ercole
+### 2. [Lavatoio Medievale](https://www.google.com/maps/place/?q=place_id:ChIJ_7GqocI7FxMRj89H4kNDuFk)
+- **Time:** After descending the Rocca
+- **What:** Atmospheric medieval washhouse with water still flowing through original stone basins. Feels 10 degrees cooler inside - a perfect reward after the climb
+- **Walk:** ~5 min downhill from the Rocca entrance
 - **Cost:** Free
 
----
+### 3. [Duomo di Cefalù](https://www.google.com/maps/place/?q=place_id:ChIJa0OFxOk7FxMRLo4qlyTPcO8)
+- **Time:** 8:30AM-12:30PM (closes midday until 3:30PM)
+- **What:** UNESCO World Heritage Norman cathedral with extraordinary Byzantine Christ Pantocrator mosaic in the apse - one of Sicily's greatest artworks
+- **Cost:** Free entry. Roof/tower/cloister tours 10-13 EUR (worth it for the rooftop views)
+- **Tip:** Shoulders must be covered
 
-### 3. [Parco dei Nebrodi](https://www.google.com/maps/place/?q=place_id:ChIJdQgHiwSyFhMREsx4HonBTao)
-- **Time:** Late morning
-- **Drive:** ~1h 15min south from San Marco via mountain roads through Cesarò
-- **What:** Sicily's largest natural park - dense beech forests, wild horses, griffon vultures. The drive itself is the experience here
-- **Route:** Take the SS289 from San Fratello toward Cesarò for the most scenic stretch
+### 4. [Museo Mandralisca](https://www.google.com/maps/place/?q=place_id:ChIJ92af0uk7FxMRiCXOVoVYZVg)
+- **Time:** Mid-morning
+- **What:** Small but excellent museum - the star is Antonello da Messina's enigmatic *Portrait of an Unknown Man* (1465). Also Greek ceramics and Arab pottery
+- **Walk:** 1 min from the Duomo
+- **Cost:** 8 EUR
 
-### 4. [Lago Biviere](https://www.google.com/maps/search/?api=1&query=37.932508,14.706087)
-- **Time:** Midday
-- **What:** Stunning high-altitude lake at 1,278m - Sicily's most important mountain wetland. Easy walk from the road to the lakeshore. Look for herons, wild horses, and a 500-year-old yew tree nearby
-- **Cost:** Free
-- **Tip:** Wear proper shoes (trail can be muddy). Bring water and a packed lunch - no facilities here
-
----
-
-### 5. [Randazzo](https://www.google.com/maps/place/?q=place_id:ChIJZSaMhxGmFhMR0-2lk0o2X-k)
-- **Time:** Early-mid afternoon
-- **Drive:** ~1h from Lago Biviere via Cesarò and SS120 along Etna's north face
-- **What:** Medieval town built entirely from black Etna lava stone - striking and atmospheric. Compact old centre walkable in 1-2 hours
-
-### 6. [Basilica di Santa Maria Assunta](https://www.google.com/maps/search/Basilica+Santa+Maria+Randazzo)
-- **What:** 13th-century cathedral with dramatic black lava facade in Catalan-Gothic style. Gagini sculptures inside
-
-### 7. [Chiesa di San Martino](https://www.google.com/maps/search/Chiesa+San+Martino+Randazzo)
-- **What:** Don't miss the 41m bell tower - considered the most beautiful in Sicily, two-tone lava and limestone
+### 5. [Porta Pescara](https://www.google.com/maps/place/?q=place_id:ChIJR6PjGeg7FxMRBcsJ3dIbhvo)
+- **Time:** Any time (open landmark)
+- **What:** The only surviving medieval gate - its Gothic arch frames a stunning view of the harbour. Featured in *Cinema Paradiso*
+- **Walk:** 2 min from the museum along Via Vittorio Emanuele
 
 ---
 
-### Lunch: [Ristorante Veneziano](https://www.google.com/maps/place/?q=place_id:ChIJg-NKizmmFhMRgPgY75J985k)
-- **Time:** Afternoon (flexible - worth calling ahead)
-- **What:** Michelin-listed institution since 1960. Nebrodi black pork, wild mushrooms, pistachio pesto - real mountain Sicilian food
-- **Where:** Just outside Randazzo on the SS120
+### Lunch: [Locanda del Marinaio](https://www.google.com/maps/place/?q=place_id:ChIJR6PjGeg7FxMRBcsJ3dIbhvo)
+- **Time:** 12:30-2PM (don't leave it late - many restaurants close at 2PM sharp)
+- **What:** Michelin-listed seafood with a modern Sicilian touch. Fresh ceviche and excellent white wine pairings
+- **Walk:** Right beneath the Duomo on Via Porpora
+- **Alternative:** [Ostaria del Duomo](https://www.google.com/maps/place/?q=place_id:ChIJa0OFxOk7FxMRLo4qlyTPcO8) on the piazza for a more casual lunch with cathedral views
 
 ---
 
-### Evening: Catania
-- **Drive:** ~1h from Randazzo via the A18
-- **What:** Check into your accommodation, stretch your legs, find dinner. You'll explore Catania properly on another day
+### 6. [Spiaggia di Cefalù](https://www.google.com/maps/place/?q=place_id:ChIJSVhiaWk7FxMRWLa_FUSIK2I)
+- **Time:** Afternoon (the beach faces north so you get sun all day)
+- **What:** One of Sicily's most beautiful town beaches - golden sand with the dramatic Rocca as a backdrop. Swim, relax, take it easy after the morning's walking
+- **Walk:** 5 min from the old town
+- **Tip:** Free public sections available. Lounger + umbrella rental 15-35 EUR if you want comfort
+
+### 7. [Corso Ruggero](https://www.google.com/maps/place/?q=place_id:ChIJx3c4WMI7FxMROuaPO_LI4v4)
+- **Time:** Late afternoon / early evening
+- **What:** Cefalù's main street following the ancient Roman road - wander, shop, and grab a gelato from Antica Porta Terra (try brioche con gelato, the Sicilian way)
+
+### Optional: [Bastione di Capo Marchiafava](https://www.google.com/maps/search/Bastione+di+Capo+Marchiafava+Cefalu)
+- **What:** 17th-century seaside fort with panoramic sunset views - a beautiful spot to end the day before heading back

@@ -10,32 +10,38 @@
 - **What:** Vibrant Sunday flower market - one of London's best street experiences
 - **Address:** Columbia Rd, E2 7RG
 
-### 2. [The Garden at 120](https://maps.app.goo.gl/D1uisT7PfvF3vHFm8)
-- **Time:** Late morning
+### 2. [Borough Market](https://maps.app.goo.gl/e2FgX4ex8vL53uKz9)
+- **Time:** Late morning / lunch (open Sunday 10am-5pm)
+- **What:** London's most famous food market - street food, artisan produce, baked goods
+- **Address:** 8 Southwark St, SE1 1TL
+- **Travel:** ~20 min south by bus/Tube from Columbia Road
+
+### 3. [The Garden at 120](https://maps.app.goo.gl/D1uisT7PfvF3vHFm8)
+- **Time:** Early afternoon
 - **What:** Free rooftop garden with great City views (15th floor, 120 Fenchurch St)
 - **Address:** 120 Fenchurch St, EC3M 5BA
-- **Travel:** ~20 min south by bus/Tube from Columbia Road
+- **Walk:** ~15 min from Borough Market
 - **Note:** May have reduced weekend hours - check ahead
 
-### 3. [The British Museum](https://maps.app.goo.gl/aiBTrp8Zv6kGRLJr6)
-- **Time:** Early afternoon (opens 10am, closes 5pm)
+### 4. [The British Museum](https://maps.app.goo.gl/aiBTrp8Zv6kGRLJr6)
+- **Time:** Afternoon (opens 10am, closes 5pm)
 - **What:** World-class museum - Rosetta Stone, Elgin Marbles, Egyptian mummies. Free entry
 - **Address:** Great Russell St, WC1B 3DG
 - **Travel:** ~20 min by Tube (Central line from Bank to Tottenham Court Rd)
 
-### 4. [Seven Dials Market](https://maps.app.goo.gl/aMZKoPGNzwPG7pki9)
-- **Time:** Mid-afternoon
+### 5. [Seven Dials Market](https://maps.app.goo.gl/aMZKoPGNzwPG7pki9)
+- **Time:** Late afternoon
 - **What:** Indoor food hall in Covent Garden - great for a late lunch or snack
 - **Address:** 35 Earlham St, WC2H 9LD
 - **Walk:** ~10 min south from British Museum
 
-### 5. Chinatown
-- **Time:** Late afternoon
+### 6. Chinatown
+- **Time:** Early evening
 - **What:** London's Chinatown on Gerrard Street - bubble tea, dim sum, bakeries, vibrant atmosphere
 - **Address:** Gerrard St, W1D (Leicester Square area)
 - **Walk:** ~5 min from Seven Dials Market
 
-### 6. [Soho](https://maps.app.goo.gl/ewaf8tRVPcyPK34c6)
+### 7. [Soho](https://maps.app.goo.gl/ewaf8tRVPcyPK34c6)
 - **Time:** Evening
 - **What:** Wander the lively streets, bars, restaurants, and nightlife
 - **Address:** Soho, W1

@@ -1,8 +1,13 @@
-# Day 2 - Cefalù
+# Day 2 - Cefalù (day trip from Palermo)
 *Area: Old Town & La Rocca*
 
-> **Getting there:** ~1 hour by train or car from Palermo. Take an early Trenitalia regional from Palermo Centrale.
+> **Getting there:** ~1 hour by train from Palermo Centrale. Trains run roughly every hour.
 > **Check before you go:** Rocca closes at 7PM (last entry ~5PM). Duomo has a midday break 12:30-3:30PM. Wear proper shoes for the Rocca (flip-flops not allowed).
+
+### Trains
+- **Palermo → Cefalù:** Take an early regional train (~7-8AM) from Palermo Centrale. ~1 hour, ~6-8 EUR
+- **Cefalù → Palermo:** Return trains run until late evening. ~1 hour, ~6-8 EUR
+- **Tickets:** Buy on [Trenitalia](https://www.trenitalia.com/en.html) (app or website) or at the machines in the station. Regional tickets don't need advance booking - but validate your paper ticket at the green machines on the platform before boarding!
 
 ---
 
@@ -57,12 +62,3 @@
 
 ### Optional: [Bastione di Capo Marchiafava](https://www.google.com/maps/search/Bastione+di+Capo+Marchiafava+Cefalu)
 - **What:** 17th-century seaside fort with panoramic sunset views - a beautiful spot to end the day before heading back
-
----
-
-### Evening: Train to Catania
-- **Catch:** ~5-6PM train from Cefalù station → arrive Catania Centrale by ~8-9PM
-- **Route:** Change at Messina Centrale. Sit on the **right side** for sea views to Messina, then **left side** for coastal + Etna views to Catania
-- **Cost:** ~14-21 EUR (regional), ~25-35 EUR (intercity)
-- **Tickets:** Buy on [Trenitalia](https://www.trenitalia.com/en.html) (app or website) or at the machines in the station. Regional tickets don't need advance booking - but validate your paper ticket at the green machines on the platform before boarding!
-- **Tip:** No direct trains - all connections change at Messina. Bring water, A/C on regional trains can be unreliable

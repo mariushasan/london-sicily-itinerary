@@ -57,3 +57,12 @@
 
 ### Optional: [Bastione di Capo Marchiafava](https://www.google.com/maps/search/Bastione+di+Capo+Marchiafava+Cefalu)
 - **What:** 17th-century seaside fort with panoramic sunset views - a beautiful spot to end the day before heading back
+
+---
+
+### Evening: Train to Catania
+- **Catch:** ~5-6PM train from Cefalù station → arrive Catania Centrale by ~8-9PM
+- **Route:** Change at Messina Centrale. Sit on the **right side** for sea views to Messina, then **left side** for coastal + Etna views to Catania
+- **Cost:** ~14-21 EUR (regional), ~25-35 EUR (intercity)
+- **Tickets:** Buy on [Trenitalia](https://www.trenitalia.com/en.html) (app or website) or at the machines in the station. Regional tickets don't need advance booking - but validate your paper ticket at the green machines on the platform before boarding!
+- **Tip:** No direct trains - all connections change at Messina. Bring water, A/C on regional trains can be unreliable

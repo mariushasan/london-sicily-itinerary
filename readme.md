@@ -5,3 +5,22 @@
 - [Day 3 - Monday, April 20](london/day-3.md) — Royal London, West London & Sky Garden
 
 Buggy is playing with SID
+---
+
+## Basic Git Usage
+
+1. **Stage your changes:**
+   ```bash
+   git add <file>        # stage a specific file
+   git add .             # stage all changed files
+   ```
+
+2. **Commit your changes:**
+   ```bash
+   git commit -m "Your commit message"
+   ```
+
+3. **Push to the remote repository:**
+   ```bash
+   git push
+   ```

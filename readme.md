@@ -4,7 +4,6 @@
 - [Day 2 - Sunday, April 19](london/day-2.md) — East London, West End & Chinatown
 - [Day 3 - Monday, April 20](london/day-3.md) — Royal London, West London & Sky Garden
 
-Buggy is playing with SID
 ---
 
 ## Basic Git Usage
@@ -24,3 +23,9 @@ Buggy is playing with SID
    ```bash
    git push
    ```
+
+Notes: 
+git pull is to pull all the changes sid did to my local VS (sync)
+git add . is a draft to sync on github without the actual implementation
+git commit is to sync my changes with sid
+git push is to publish on github

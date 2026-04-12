@@ -7,6 +7,7 @@
 ### Trains
 - **Palermo → Cefalù:** Take an early regional train (~7-8AM) from Palermo Centrale. ~1 hour, ~6-8 EUR
 - **Cefalù → Palermo:** Return trains run until late evening. ~1 hour, ~6-8 EUR
+- **Stations:** Palermo Centrale → Cefalù
 - **Tickets:** Buy on [Trenitalia](https://www.trenitalia.com/en.html) (app or website) or at the machines in the station. Regional tickets don't need advance booking - but validate your paper ticket at the green machines on the platform before boarding!
 
 ---
